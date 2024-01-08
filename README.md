@@ -4,7 +4,7 @@ I'm a software engineer working primarily with backend technologies. I have exte
 
 ### Find me around the web 🌎
 
-- Recently working on [CCS](https://ccs.spdb.com)
+- Recently working on [CCS](https://ccs.spdb.com.cn)
 - Connecting on [LinkedIn](https://www.linkedin.com/in/%E7%88%BD-%E6%A2%81-38064b147/)
 
 
